@@ -556,7 +556,7 @@ struct STRUCT_SERVER_INFO
 
 	bool PromotionStatus{ false };
 	int MaxWaterEntrance{ 1080 };
-	int CliVer{ 10029 };
+	int CliVer{ 759 };
 
  
 
