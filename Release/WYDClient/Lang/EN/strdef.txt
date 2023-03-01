@@ -1,0 +1,1132 @@
+1 _NN_No_Item_Space	Not enough space for items.
+2 _NN_Select_Other_Server	Do you want to select other server?
+3 _NN_ID_Is_Short	Your ID is not long enough.
+4 _NN_ID_Is_Long	Your ID is too long.
+5 _NN_Password_Is_Short	Your password is not long enough.
+6 _NN_Password_Is_Long	Your password is too long.
+7 _NN_Connecting_Server	Now connecting to server.
+8 _NN_Connection_Failed	Connection failed.
+9 _NN_Only_Sign_WebPage	You only can register in our website.
+10 _NN_Sign_Now	Want to sign up now?
+11 _NN_Select_OtherServer	Want to select different server?
+12 _NN_Disconnected_Retry	You are disconnected. Please try again.
+13 _NN_Server_Disconnected	Server connection failed.
+14 _NN_Select_Character	Choose your character.
+15 _NN_Name_Length_More_4Byte	Name your character with longer than two Chinese letters or four English letters.
+16 _NN_Name_Length_Less_12Byte	Name your character with shorter than six Chinese or twelve English letters.
+17 _NN_Name_Is_Not_Legal	Your name does not meet the standard requirements.
+18 _NN_Confirm_Delete	Do you really want to delete?
+19 _NN_Same_Name_Or_Not_Legal	Your name is already registered by other user, or your name includes unusable characters.
+20 _NN_Fail_To_Delete_Character	Failed to delete your character.
+21 _NN_fail_To_Character_Login	Failed to log in with your character.
+22 _NN_Exit_Game	Want to exit the game?
+23 _NN_Check_Server_Login_Rate	Checking server connection traffic.
+24 _NN_Select_Server_And_Group	Select server and server group.
+25 _NN_Server_Full_Select_Other	Server is full. Please select different server.
+26 _NN_Not_Server_Select_Other	You are not connected. Please select different server.
+27 _NN_Return_To_Town	Want to go back to village?
+28 _NN_Trade	Want to trade?
+29 _NN_Only_Enter_More_Level_30	You have to be under Level 35 to enter.
+30 _NN_Not_Enough_Mana	Not enough Mana.
+31 _NN_RButton_Click_In_Party_Window	Choose your party member from the Party Window using a right button of your mouse.
+32 _NN_Must_Have_Party_Use_This_Skill	You need to join a party to use this skill.
+33 _NN_Cannot_Disturb_Chatting	Please do not disturb communication of other players.
+34 _NN_Wrong_Coin_Number	You have set inapppropriate amount of gold.
+35 _NN_You_Already_Trade_Now	You are already trading with other players.
+36 _NN_Withdrawaled_In_Guild	Are you sure to withdraw this player from your guild?
+37 _NN_Not_Exist_Trader	The trader does not exist.
+38 _NN_Not_In_Teleport_Zone	You are out of Teleport Zone.
+39 _NN_Cannot_Up_Stat_Point	You cannot increase your Stat Point any more.
+40 _NN_Cannot_Summon_Self	You cannot summon yourself.
+41 _NN_Wait_2_Seconds_And_Retry	Push the button again after 2 seconds.
+42 _NN_PK_Zone_Not_Want_Go_Back	This area leads to PK Zone. If you do not want PK, please go back.
+43 _NN_Go_Other_Town	Want to go to other Village?
+44 _NN_Found_AutoMouse	Automouse program has been detected.
+45 _NN_Found_AutoMacro	Automacro program has been detected.
+46 _NN_Try_Guild_War	You want to initiate a Guild War?
+47 _SN_Study_Skill	Want to learn %s?
+48 _SN_Cannot_Refining	%s(Non-upgradable)
+49 _DN_Skill_Range	Skill Range : %d
+50 _DN_Mana_Spent	Mana Spent : %d
+51 _DN_Skill_Damage	Skill Damage : %d
+52 _SN_SKill_Property	Skill Property : %s
+53 _SD_Req_Special_Point	Required %s Speical Points : %d
+54 _DN_Req_Level	Required Level : %d
+55 _SD_Special_Point	%s Sepcail Point : %d
+56 _DN_Two_Hand	(Two Hands:%d)
+57 _DN_Cost	Price : %d
+58 _DN_Sell_Cost	Selling Price : %d
+59 _DN_Skill_Point	Skill Point : %d
+60 _SN_Menu_For_Who	Menu for '%s'
+61 _NN_Reply	Reply
+62 _SN_He_Or_She_Requested_Party	%s' asked to you to join the party.
+63 _SN_LButton_Click_Want_Party	To join the party, please click '%s' on the Party Window.
+64 _SN_With_He_Or_She	With [%s]
+65 _DN_Coin	Gold %d
+66 _DN_Server_Group	Server %d Group
+67 _NN_Test_Server_Group	Test Server Group
+68 _DD_Server	%d-%d Server
+69 _DN_Test_Server	Test-%d Server
+70 _NN_None_Server	No server.
+71 _NN_Medal_Of_Guild	Medal of Guild
+72 _NN_Master	Master
+73 _NN_EF_CLASS	Class
+74 _NN_EF_LEVEL	Required level
+75 _NN_EF_REQ_STR	Required strength
+76 _NN_EF_REQ_INT	Required intelligence
+77 _NN_EF_REQ_DEX	Required dexterity
+78 _NN_EF_REQ_CON	Required condition
+79 _NN_EF_DAMAGE	Damage increase
+80 _NN_EF_AC	Defense
+81 _NN_EF_HP	Maximum HP increase
+82 _NN_EF_MP	Maximum Mana increase
+83 _NN_EF_HPADD	Maximum HP increase rate
+84 _NN_EF_MPADD	Maximum Mana increase rate
+85 _NN_EF_SAVEMANA	Mana saving rate
+86 _NN_EF_CRITICAL	Critical
+87 _NN_EF_REGENHP	HP recovery rate
+88 _NN_EF_REGENMP	Mana recoevery rate
+89 _NN_EF_RESISTALL	All resistance increase
+90 _NN_EF_RUNSPEED	Moving speed increase
+91 _NN_EF_RESIST1	Fire resistance
+92 _NN_EF_RESIST2	Ice resistance
+93 _NN_EF_RESIST3	Divinity resistance
+94 _NN_EF_RESIST4	Lightening resistance
+95 _NN_EF_SPECIAL1	Weapon mastery
+96 _NN_EF_SPECIAL2	Faith/Holy Magic/Elemental/Survival
+97 _NN_EF_SPECIAL3	Trans/Black Magic/Summon/Trade
+98 _NN_EF_SPECIAL4	Magic sword/Special Magic/Nature/Capture
+99 _NN_EF_ATTSPEED	Attack speed increase
+100 _NN_EF_STR	Strength
+101 _NN_EF_INT	Intelligence
+102 _NN_EF_DEX	Dexterity
+103 _NN_EF_CON	Constitution
+104 _NN_EF_MAGIC	Magic attack power
+105 _NN_EF_QUE_AMOUNT	HP recovery Bouns
+106 _NN_Weapon_Mastery	Weapon mastery
+107 _NN_Belief	Faith
+108 _NN_Trans	Trans
+109 _NN_Magic_Sword	Magic sword
+110 _NN_Holy_Magic	White magic
+111 _NN_Black_Magic	Black magic
+112 _NN_Special_Magic	Special magic
+113 _NN_Elemental	Element
+114 _NN_Summon	Summon
+115 _NN_Nature	Nature
+116 _NN_None	N/A
+117 _NN_Fire	Fire
+118 _NN_Ice	Ice
+119 _NN_Thunder	Lightening
+120 _NN_Holy	Holy
+121 _NN_TransKnight	Transknight
+122 _NN_Foema	Foema
+123 _NN_BeastMaster	Beastmaster
+124 _NN_Hunter	Hunter
+125 _NN_Armia	Armia
+126 _NN_Azran	Azran
+127 _NN_Noname	Noname
+128 _NN_EF_INIT1	Faith/Holy Magic/Elemental/Survival initialization
+129 _NN_EF_INIT2	Trans/Black Magic/Summon/Trade initialization
+130 _NN_EF_INIT3	Magic sword/Special Magic/Nature/Capture initialization
+131 _NN_ClearSkill	Do you want to initialize your Circle class skills?
+132 _NN_GoBilling	Do you want to go to billing page?
+133 _NN_Survival	Survival
+134 _NN_Trading	Trade
+135 _NN_Capture	Capture
+136 _NN_Input_SaveGold	Enter the amount of gold to store.
+137 _NN_Input_ExGold	Enter the amount of gold to exchange.
+138 _NN_Input_GetGold	Enter the amount of gold to receive.
+139 _NN_Passive_Skill	Passive skill
+140 _NN_Skill_All	Skill mastery increase
+141 _NN_AutoTrade_Name	Enter the name of trade.
+142 _NN_AutoTrade_Coin	Enter the price of items.
+143 _NN_Coin_Too_Large	Enter the price of items at most %d Gold.
+144 _NN_ConfirmBuyItem	Do you continue to buy items?
+145 _NN_SelectTradeItem	Select trade items.
+146 _NN_Tax	TAX rate
+147 _NN_Input_GuildGold	Enter bidding price to challenge Guild War.
+148 _DN_GetExp	You have gained %d of exp.
+149 _SN_CraftGoldPiece	Do you want to exchange '%s' of gold
+150 _NN_CraftGoldPiece	to point?
+151 _NN_CastingDelayDown	Decrease delay before next use of skill.
+152 _NN_Running	Do you want to proceed?
+153 _SS_With	Do you want to accept a challenge from '%s' for %s
+154 _NN_CnfReqRanking	ranking match?
+155 _NN_NotEnoughMoney	Not enough gold.
+156 _NN_MustClearParty	This player is already invited to a party.
+157 _NN_PKMode	PK Mode
+158 _NN_Confirm_GuildWar	Want to declare a war?
+159 _NN_Confirm_GuildCall	Want to call up your guild members?
+160 _NN_WaterElemental	You have to use waterscroll to enter Water Elemental Zone.
+161 _NN_FoundTapePlay	Abnormal playing patter has been detected.
+162 _NN_EF_INCUBATE	Critical incubation value
+163 _NN_EF_MOUNTLIFE	Vitality
+164 _NN_EF_MOUNTHP	HP
+165 _NN_EF_MOUNTSANC	Maturity
+166 _NN_EF_MOUNTFEED	Food
+167 _NN_Level	Level
+168 _NN_Dead	Status: Dead
+169 _NN_EF_INCUDELAY	Expected incubation time
+170 _NN_CanIncubate	Status: Able to incubate
+171 _NN_EF_MOUNTKILL	EX
+172 _NN_RunningMode	Run Mode
+173 _NN_Erion	Erion
+174 _NN_EF_PARRY	Evasion rate
+175 _NN_CheckTicket	Want to register the ticket?
+176 _NN_Number	Number
+177 _NN_Title	Title
+178 _NN_Writer	Writer
+179 _NN_Hits	Hits
+180 _NN_Date	Date
+181 _NN_BoardList	
+182 _NN_BoardView	
+183 _NN_BoardReply	
+184 _NN_BoardModify	
+185 _NN_BoardWrite	
+186 _NN_BoardDelete	
+187 _NN_CannotReply	You cannot put up more than 10 replies.
+188 _NN_CannotWrite	Failed to save.
+189 _NN_CannotDelete	Cannot delete this.
+190 _NN_CannotRead	Cannot acquire information.
+191 _NN_GuildBoard	/Guild Board
+192 _NN_MustOverSanc9	Items for composition have to be at least +9.
+193 _NN_MustCombineStone	You need to mount Elixir.
+194 _NN_MustOverSanc7	Items for composition ingredients have to be at least +7.
+195 _DN_DropInc	Drop rate %d%% increased.
+196 _NN_Damage	Piercing damage.
+197 _DN_ExpInc	EXP %d%% increased.
+198 _NN_DamGet	Absorbed damage.
+199 _NN_GuildsURL	http://wydglobal.raidhut.com/
+200 _NN_CharTransper	Want to go to Integrated server?
+201 _SN_TransperOK	%s' has been moved to the Integrated server.
+202 _SN_SameName	Same name already exists in the Integrated server.
+203 _NN_NoSpaceInServer	You already have 03 accounts on the game server.
+204 _NN_UnknownError	Unknown error.
+205 _NN_InTServer	This user is already in the Integrated
+206 _NN_Requsting	Requesting to server.
+207 _NN_TeleportCost	Fee for transfer is %d Gold.
+208 _SN_Teleport	Want to go to '%s'.
+209 _NN_Noatun	Kingdom of Noatun
+210 _NN_NoatunOutCastle	The Outside Castle of Noatun
+211 _NN_AzranField	Azran Field
+212 _NN_Dungeon	Dungeon
+213 _NN_ArmiaField	Armia Field
+214 _NN_Dungeon1F	Dungeon Level 1
+215 _NN_Dungeon2F	Dungeon Level 2
+216 _NN_Dungeon3F	Dungeon Level 3
+217 _NN_LookGuildWar	Watch Guild Wars.
+218 _NN_UnderWorld	Underworld
+219 _NN_UnderWorld1F	Underworld Level 1
+220 _NN_UnderWorld2F	Underworld Level 2
+221 _NN_Confirm_GuildAlly	Do you want to form a Guild alliance?
+222 _DN_RemainTown	You will be back to the villiage after %d seconds.
+223 _DN_RemainTeleport	You will teleport after %d seconds.
+224 _DN_RemainQuit	You will end the game after %d seconds.
+225 _DN_RemainSelChar	You will go to character selecting window after %d seconds.
+226 _SN_FromMemo	You have a message from %s.
+227 _NN_Resurrect	Do you want to resurrect?
+228 _NN_SummonFrom	Will you allow %s to request you
+229 _NN_WantSummon	for summon?
+230 _NN_MonsterLeft	1 2 3 4 5
+231 _NN_SpentAll	Mana Spent: All
+232 _NN_AutoRunMode	Auto Running Mode
+233 _NN_SoulStone	Will you compose Soul Stone?
+234 _NN_Relocation	relo
+235 _NN_NotUseTest	Test server is only available for connection.
+236 _NN_NotUseMain	You can connect only to the Main Server.
+237 _NN_Information	Information
+238 _NN_Confirm	Confirm
+239 _NN_Cancel	Cancel
+240 _NN_BugReportURL	https://feedback.kersef.com/en/
+241 _NN_BringSephiroth	Ask Skill Master, compose Sephiroth, and bring it to me.
+242 _NN_Special01	Weapon mastery
+243 _NN_Special02	Faith
+244 _NN_Special03	Trans
+245 _NN_Special04	Magic sword
+246 _NN_Special11	Weapon mastery
+247 _NN_Special12	Holy magic
+248 _NN_Special13	Black magic
+249 _NN_Special14	Special magic
+250 _NN_Special21	Weapon mastery
+251 _NN_Special22	Element
+252 _NN_Special23	Summon
+253 _NN_Special24	Nature
+254 _NN_Special31	Weapon mastery
+255 _NN_Special32	Survival
+256 _NN_Special33	Trade
+257 _NN_Special34	Capture
+258 _NN_InviteOK	You can enter the Cube of Chaos only with invitation.
+259 _NN_Guild	Guild
+260 _NN_Quiz	Quiz
+261 _NN_MustMergeStone	You have to mount Merge Stone.
+262 _NN_MustSameName	The two items for composition must have same names.
+263 _NN_Cash_URL	https://wydglobal.raidhut.com
+264 _NN_LottoCost	Sales Price_%d_Gold
+265 _NN_FillBlank	Please fill the blank.
+266 _NN_Already_Num	You already have chosen this number.
+267 _NN_LottoNum	Lottery Number
+268 _NN_LottoCount	This is my week %d lottery ticket.
+269 _NN_WebShopURL	https://wydmisc.raidhut.com.br/neil/global.php
+270 _NN_BackToGame	Exit
+271 _NN_NoSupport	Low resolution does not support store system.
+272 _NN_MustGlittering	You need 4 more Glittering Stones.
+273 _NN_MustTransItem	You need to mount exclusive Transit items.
+274 _NN_EquipItem	You need to mount items for composition.
+275 _NN_MustOverCasting	Items only higher than Emperor, Casting, Iron, Nature are available.
+276 _NN_NotMatchParts	Mount part is not appropriate.
+277 _NN_MustJewel	You should mount jewels.
+278 _NN_NoEmptyCargo	You need more space for storage.
+279 _NN_ClearCookie	
+280 _NN_BeAdmit	You can enter now.
+281 _NN_RefuseAdmission	You cannot enter.
+282 _NN_HundredMillion	%d hundred million
+283 _NN_TenThousand	%d0000
+284 _NN_Gold	Gold
+285 _NN_NoTransformation	Please use this after detatch the mount or egg
+286 _NN_NoReturnof	Pleaes click ability master when use the return of ability
+287 _NN_ServerRebootDay	2
+288 _NN_ServerRebootTime	5
+289 _NN_PartyOut	Will you withdraw %s from party?
+290 _NN_ADULT	Can't use in under 18 age server.
+291 _NN_LastDay	%d day
+292 _NN_LastHour	%d hour
+293 _NN_LastMin	%d min
+294 _NN_MONSTER	monster
+295 _NN_MustSanc9	To combine the item, you must use +9 grade item.
+296 _NN_LastMonth	%d month
+297 _NN_LastYear	%d year
+298 _NN_LastHour2	%d hour
+299 _NN_MountEndTime	expire time
+300 _NN_QuestOn	1000 milion exp point will be reduced. Will you proceed the quest?
+301 _NN_SnowField	nipleheim field
+302 _NN_MustAcientItem	You must equip ancient item
+303 _NN_CannotRefine	Item is not suitable.
+304 _DN_FAKEEXP	C. POINT %14d / %d%%
+305 _DN_DropFakeExp	%d C.POINT has been decreased.
+306 _NN_OneMoreMix	You can combine item which already has been combined.
+307 _NN_NewQuest	New quest has been arrived.
+308 _NN_ItemOption	You can view the estimated combination effects through the preview window.
+309 _NN_Notrade	Unable to trade the specified item.
+310 _NN_PotalPos1	[Armia、Azran] Teleporter location
+311 _NN_PotalPos2	[Underground] Teleporter location
+312 _NN_PotalPos3	[Hellgate] Teleporter location
+313 _NN_PotalPos4	[Gald Desert] Teleporter location
+314 _NN_PotalPos5	[Khepra] Teleporter location
+315 _NN_PotalPos6	[Riflhaim] Teleporter location
+316 _NN_NeedSilverBrick	Silver Brick Required(1 Billion Gold Coins)。
+317 _NN_NeedSealBook	Seal Bood Required.
+318 _NN_NeedDragonGod	Fate of Dragon God Required.
+319 _NN_SureMix	Do you want to group up?
+320 _NN_NeedSpritStone	You need Spiritual Stone.
+321 _NN_Karden	Karden
+322 _NN_HiddenPlace	Abaddon Dungeon
+323 _NN_TR2TR	TR-TR
+324 _NN_TR2FO	TR-FO
+325 _NN_TR2BM	TR-BM
+326 _NN_TR2HT	TR-HT
+327 _NN_FO2TR	FO-TR
+328 _NN_FO2FO	FO-FO
+329 _NN_FO2BM	FO-BM
+330 _NN_FO2HT	FO-HT
+331 _NN_BM2TR	BM-TR
+332 _NN_BM2FO	BM-FO
+333 _NN_BM2BM	BM-BM
+334 _NN_BM2HT	BM-HT
+335 _NN_HT2TR	HT-TR
+336 _NN_HT2FO	HT-FO
+337 _NN_HT2BM	HT-BM
+338 _NN_HT2HT	HT-HT
+339 _NN_InputByEngNum	Please input char name by English or Number.
+340 _NN_CannotSell	※you cannot sell it to Shop.
+341 _NN_WYDTalk	https://wydglobal.raidhut.com/images/Cherry_Blossom.jpg
+342 _SN_SellItem	'%s'
+343 _NN_SellItem	Do you want to sell it ?
+344 _NN_Warning01	Warning01
+345 _NN_Warning02	Warning02
+346 _DN_OverTime	%d
+347 _DN_TakeRest	%d
+348 _NN_ReduceKill	Do you want to reduce 100 counts of kill point ?
+349 _NN_InputCharName	Input character name.
+350 _NN_SealChar	Do you want to seal your character ?
+351 _NN_TotoNum	Game Count
+352 _NN_TotoTime	Game Date
+353 _NN_TotoScore	Game Score
+354 _NN_NeedRuneWord	Please put runeword or Laktorerium Powder on the empty slot of combination window.
+355 _NN_CombineCost	Cost for combination
+356 _NN_SureChangeClass	Will you proceed the 2nd class change?
+357 _NN_Need8stSkill	The 8th skill level should be required to use this skill.
+358 _NN_DoQuestCount	Number of accomplished "Contract of Spirit Quest"
+359 _NN_MustNormalItem	You need to equip with normal item.
+360 _NN_MustMagicPower	You need to equip with Extraction_of_Magical_Power.
+361 _NN_MustSameJewel	You need to equip with same type of Jewelry.
+362 _NN_InviteGuildMember	Do you want to join as a guild member of %s Guild?
+363 _NN_InputChiefGuildName	Please, input the name of Chief guild.
+364 _NN_AlreadyHaveGuild	That person already joined the guild.
+365 _NN_AlreadyHaveOtherGuild	That person already a member of another guild.
+366 _NN_AlreadyChief	That person is already a chief master.
+367 _NN_NoHaveGuild	That person is not a member of guild.
+368 _NN_MustEquipMount	You need to equip with with normal mount.
+369 _NN_MustDeadMount	Mount should be disabled.
+370 _NN_CanNotCreateGuild	Can't create guild.
+371 _NN_CanNotCreateSubGuild	Can't create chief guild.
+372 _NN_CanNotHandOverGuild	Can't withdraw from guild.
+373 _NN_CanNotWithdrawal	Can't handover guild.
+374 _NN_TryServerWar	What Channel do you want to declare war?
+375 _NN_TryRefuseServerWar	What Channel do you want deny war?
+376 _NN_CanNotRegisterSkill	This skill can not be registered.
+377 _NN_GuildmarkURL	http://wydmisc.raidhut.com/guild/img_guilds/global/
+378 _NN_AirMoveSubject	Path
+379 _NN_AirMovePlace	Position
+380 _NN_AirMoveXY	Coordinate
+381 _NN_AirMoveCost	Rental Fee
+382 _NN_PortalField	[Field Name]
+383 _NN_PortalPlace	Position of Portal
+384 _NN_PortalXY	Coordinate of Portal
+385 _DN_MileagePrice	Mileage : %d
+386 _NN_CreateGuild	create
+387 _NN_HandoverGuild	handover
+388 _NN_ExpelGuild	expel
+389 _NN_Spk	spk
+390 _NN_WarStatus	war
+391 _NN_Waiver	waiver
+392 _ND_PLAYTIME_1	Your connention time already passthrough %d Hour(s)
+393 _ND_PLAYTIME_2	We recommand to take a rest or excise shortly
+394 _ND_PLAYTIME_3	You are in over play time connection
+395 _ND_PLAYTIME_4	You can get 50% item in normal statement
+396 _ND_PLAYTIME_5	We recommand to take a rest or excise shortly for your health
+397 _ND_PLAYTIME_6	Study also need for you as ventilation from gameplay
+398 _ND_PLAYTIME_7	Your play time almost reach to internet addiction.
+399 _ND_PLAYTIME_8	When you logout and take a rest.
+400 _ND_PLAYTIME_9	If you don't discunnect, and playgem your health will be worse.
+401 _ND_PLAYTIME_10	Your item drop chance was decreased to 0%. If you want to recover it
+402 _ND_PLAYTIME_11	You have to logoff during %s
+403 _NN_CHINA_UID_URL	http://wydglobal.raidhut.com/
+404 _NN_CITYZEN	Do you want to join the citizenship of this server?
+405 _NN_itemlockPass	Password to input
+406 _NN_ConnectUser	
+407 _NN_GuildChallenge	When applying for a guild, your guild reputation will decrease. Are you going?
+408 _NN_InputItemAmount	How many would you like to share?
+409 _NN_OnyNumber	Quantity is invalid.
+410 _NN_AmunlaStart	The experience value is reset. Do you want to proceed?
+411 _NN_MustTransAmunlaStone	Amunla Stone material must be installed.
+412 _NN_NeedItem	There is not enough item
+413 _NN_WantNumber	There is not enough number
+414 _NN_WantCost	There is not enough money
+415 _NN_IsNotLev	Not at that level.
+416 _NN_IsNotClass	Not at that Class.
+417 _NN_MissionPepl	Count
+418 _NN_MissionLev	level limit :
+419 _NN_MissionClass	Executable Classes :
+420 _NN_MissionClass0	Normal
+421 _NN_MissionClass1	God
+422 _NN_MissionClass2	God2
+423 _NN_MissionCost	Need Cost :
+424 _NN_MissionFame	Need Fame :
+425 _NN_MissionRItem	Reward item :
+426 _NN_MissionNum	N
+427 _NN_MissionRCost	Reward Cost
+428 _NN_MissionRExp	Reward Exp
+429 _NN_MissionROption	Copy Option
+430 _NN_MissionRSanc1	Sanc
+431 _NN_MissionRSanc2	Increase
+432 _NN_MissionJewal	Jewal
+433 _NN_MissionItem	Item
+434 _NN_MissonNeedItemList	List of registerable items
+435 _NN_MissonFame	Fame
+436 _NN_MissonGuildFame	Guild Fame
+437 _NN_FameDrop	Silver Coin is consumed and the guild's fame rises. Do you want to proceed?
+438 _NN_GetInItem	Get '%s'
+439 _NN_PVP_ATTACK	PvP Damage : %d.%d%%
+440 _NN_PVP_Defens	PvP Armor : %d.%d%%
+441 _NN_MIX_23	More than +9 Amunla Stone
+445 _NN_EF_HITRATE	HitRate
+446 _NN_ON	On
+447 _NN_OFF	Off
+448 _NN_Wisper	Wisper :
+449 _NN_Citizen_Chatting	Channel Chat :
+450 _NN_Guild_Chatting	Guild Chat :
+451 _NN_Kingdom_Chatting	Kingdom Chat :
+452 _NN_Nomal_Chatting	Nomal Chat :
+453 _NN_MIX_1	Sapphire
+454 _NN_MIX_2	More than +9 item
+455 _NN_MIX_3	Rune
+456 _NN_MIX_4	Laktorerium Powder
+457 _NN_MIX_5	More than +9 accessory
+458 _NN_MIX_6	More than +9 Spirit_Stone
+459 _NN_MIX_7	Magic's Seal
+460 _NN_MIX_8	Bless Refining
+461 _NN_MIX_9	Jewelry
+462 _NN_MIX_10	Glittering Stone
+463 _NN_MIX_11	More than +9 God item
+464 _NN_MIX_12	More than +7 item
+465 _NN_MIX_13	Spirit_Stone
+466 _NN_MIX_14	More than +seal 9 item
+467 _NN_MIX_15	More than +15 God item
+468 _NN_MIX_16	Darkness Jewelry/Moon Stone
+469 _NN_MIX_17	Locked Seal
+470 _NN_MIX_18	Warrior's Seal
+471 _NN_MIX_19	+9 Spirit_Stone
+472 _NN_MIX_20	More than +11 item
+473 _NN_MIX_20	Secret Stone
+474 _NN_MIX_21	Laktorerium bunch/Protection Emblem
+475 _NN_MIX_22	Secret Stone/Bless Refining
+476 _NN_CCMODE1	Use HP/MP(%d%%) Potion&Feed(%d%%)
+477 _NN_CCMODE2	Disable mount feed
+478 _NN_CCMODE3	Use Mount feed Hp(%d%%)
+479 _NN_CCMODE4	Disable HP/MP Potion
+480 _NN_CCMODE5	Use Potion Hp/MP(%d%%)
+481 _NN_POISON	Poison
+482 _NN_MOUNT	Mount
+483 _SS_COSTUME	%s(Costume:%s)
+484 _SN_MOUNT	Mount Costume
+485 _NN_Kingdom	Kingdom War field
+486 _DN_UndoCost	Repurchase price : %d
+487 _DN_FAMEPRICE	Fame : %d
+488 _NN_Join_Admin_Guild	Do you want to join the Operator Guild?
+489 _NN_IsAuctionedOff	Did you bidding the item?
+490 _DN_SHUTDOWN	After %d Min(s) game will be shut down. For preserveing data safety you should logout at satey zone
+491 _NN_SHUTDOWN1	According to the law for preventing youth, under 16 years old youth player will be shotdown compulsory.
+492 _NN_SHUTDOWN2	Please move to saty zone before 00:00.
+493 _DN_OverTime2	Too much game play can harm your life.
+494 _NM_MIX_23	Oriharukon
+495 _NM_MIX_24	Bag letter
+496 _NN_ITEM_LOCK	Lock
+497 _NN_ITEM_UNLOCK	UnLock
+498 _NN_STEAMLOGIN_URL	http://wydglobal.raidhut.com/
+499 _NN_STEAMLOGIN_FAIL	Steam login fail
+500 _NN_STEAMLOGIN_FAIL_RESULT_2	No account found, Would you like to link/create an account
+501 _NN_STEAMLOGIN_FAIL_RESULT_3	Steam login fail 3
+502 _EF_CRIT_DAM	Critical damage
+503 _EF_CRIT_AC	Reduced Critical Damage
+504 _NN_MIX_23	+9 Belt
+505 _NN_MIX_24	+9 neck
+506 _NN_MIX_25	+9 or more Amunla_Stone
+507 _NN_NOLIMIT	No limit
+508 _NN_BAHAMULT_ITEM_	Bahamut /RedDragon Amor
+509 _NN_TRANS_HAHAMULT	Bahamut Item
+510 _NN_TRANS_15	+15 God2 Item
+511 _NN_DragonBlood	Dragon Blood
+512 _NN_BAHAMULT_ITEM_2	Bahamut Item
+513 _NN_ITEM_SETLOCK	SetLock
+514 _NN_REDDRAGON_ARMOR	Read/ Blue Dragon Armor
+515 _NN_BLUEDRAGON_ARMOR	Blue/ Read Dragon SCALE
+516 _NN_DRAGON_SCALE_RED	Red Dragon Scale
+517 _NN_DRAGON_SCALE_BLUE	Blue Dragon Scale
+518 _NN_COSTUME	Costume
+519 _NN_MOUNTCOSTUME	MountSostume
+520 _NN_BLESS_STABILIZER	Bless Stabilizer
+521 _NN_NOMAL_ARMOR_LEGEND	+10 or more Nomal Armor E Grade Amor /  Ancient item
+522 _NN_SOUL_FRAGMENT	Soul Fragment
+523 _NN_MOUNT_	Mount Essence 100 bunch
+524 _NN_Confirm_GuildWarEnd	Want to end the war?
+525 _NN_MAGIC_CIR	Magic Critical Rate
+526 _NN_Arcane_Circlet	Arcane Circlet +15
+527 _NN_MountGS	Stabilizer 100 bunch
+528 _NN_GOD2_12	More than +11 God2 item
+529 _NN_EG	Essence of the gods
+530 _NN_Mythril_Ore	Mythril Ore
+531 _NN_DRAGON_SCALE	Dragon Scale Red / Blue
+1001 _NN_Get_Skill_Point	Quest: Your skill point has increased to 9.
+1002 _NN_Weapon_Enchanted	Quest: You have an option in your weapon.
+1003 _NN_Get_Watching_Town_Mission	Quest: You have a frontiersman mission.
+1004 _NN_Watching_Town_Success	Quest: You approve of town protection.
+1005 _NN_Watching_Town_Awarded	Quest: You gain Unick as a reward.
+1006 _NN_Qest06Complete	Quest: You have completed the "divine circle quest"
+1007 _NN_Qest07Complete	Quest: You completed "Quest 7".
+1008 _NN_Qest08Complete	Quest: You completed "Quest 8".
+1009 _NN_Qest09Complete	Quest: You completed "Quest 9".
+1010 _NN_Qest10Complete	Quest: You completed "Quest 10".
+1011 _NN_Qest11Complete	Quest: You completed "Quest 11".
+1012 _NN_Qest12Complete	Quest: You completed "Quest 12".
+1013 _NN_Qest13Complete	Quest: You completed "Quest 13".
+1014 _NN_Qest14Complete	Quest: You completed "Quest 14".
+1015 _NN_Qest15Complete	Quest: You completed "Quest 15".
+1016 _NN_Qest16Complete	Quest: You completed "Quest 16".
+1017 _NN_ServerRebootAfter_1minute	Notice: Server will reboot in 1 minute
+1018 _NN_Rerun_Game_For_Auto_Patch	Notice: Please turn the game off so it can be saved.
+1019 _NN_ServerReboot_After_30Sec	Notice: Re-booting in 30 seconds.
+1020 _NN_ServerReboot_Takes_10min	Notice: Re-booting in 20 seconds.
+1021 _NN_ServerReboot_After_10Sec	Notice: Re-booting in 10 seconds.
+1022 _NN_ServerReboot_Now	Notice: Notice : Re-booting is begin.
+1023 _NN_Bad_Network_Packets	Network is unstable.
+1024 _NN_Only_Guild_Master_can	Only the guild master can apply for a guild battle.
+1025 _NN_Champions_Cant_Challange	Guilds who already have a town can not apply for battle.
+1026 _NN_Last_Challange_Cant	Last week's challenger can not apply.
+1027 _NN_Allready_Challanged	You have already applied to a guild battle.
+1028 _NN_Cant_Get_More_Challanger	This town can not accept anymore challengers.
+1029 _NN_Need_Sign_Of_Challanger	You need a challenger's voucher to apply for a guild battle.
+1030 _NN_Challanged	Your application has been accepted
+1031 _NN_Cant_Create_More_Summons	You can't create no more summon.
+1032 _NN_1_Kind_Summon_in_1_Party	You can summon same one in one party.
+1033 _NN_Party_Full_Cant_Summon	Party is full. Can not summon.
+1034 _NN_SelectCharacter	Choose your character.
+1035 _NN_ServerReboot_Cant_Connect	Server is Busy. Please try again later.
+1036 _NN_Version_Not_Match_Rerun	You have an older version. Please Re-run the game for autopatch.
+1037 _NN_3_Tims_Wrong_Pass	If you enter the wrong password 3 consecutive times, then you'll not be able to log on to the game for 5 minutes.
+1038 _NN_Wait_Checking_Billing	Please wait.
+1039 _DN_Not_Allowed_Account	You may use experience service.
+1040 _NN_Using_Other_Server_Group	Your account is being used in another server.
+1041 _NN_Wait_Checking_Billing_t	You started the game in direct mode.
+1042 _NN_Not_Allowed_Account_t	You started the game in free mode.
+1043 _NN_Using_Other_Server_Group_t	You connected to the independence mode server.
+1044 _NN_Cant_Deposit_That_Much	You can not save more than you have.
+1045 _NN_Cant_Withdraw_That_Much	You can not withdraw mor than you have.
+1046 _NN_Newbie_zone	Only levels 35 and under can enter the training camp.
+1047 _NN_Only_Guild_Members	You can't enter another guild's area.
+1048 _NN_Cant_Summon_Dead_Person	dead character can not be summoned or transferred.
+1049 _NN_Summon_Not_Allowed_Here	Zone not available for summon/transfer.
+1050 _NN_Too_High_Level_To_Summon	The opponent's level is too high for this.
+1051 _NN_Not_Enough_Mana	Not enough Mana.
+1052 _SN_Summoned_By_S	You summon to [%s].
+1053 _NN_Level_Up	++++ LEVEL UP ++++
+1054 _NN_3_Quarters_Bonus	3 QUARTERS BONUS
+1055 _NN_2_Quarters_Bonus	2 QUARTERS BONUS
+1056 _NN_1_Quarters_Bonus	1 QUARTERS BONUS
+1057 _SS_Champion_And_Challanger	This week's guild battle champion is %s, challenger is %s.
+1058 _SN_No_Challanger	No challenger. %s will keep its tittle.
+1059 _SN_Winner_Is	%s guild is this week's winner.
+1060 _NN_Teleport_Gate_Requir	Levels 30 and above can enter the teleport gate.
+1061 _SN_I_Wwill_Enchant_Your_Weapon	I will enchant %s weapon.
+1062 _NN_Gather_7_Clistals	Gather 7 crystals then come to me.
+1063 _NN_Equip_Weapon_To_Enchant	Bring me a weapon to be blessed.
+1064 _NN_Only_Nomal_Weapons	Only normal weapons can get blessings.
+1065 _SN_Now_I_Will_Enchant_Your	Using 7 crystals, I'll bless %s weapon
+1066 _SN_All_Villagers_Thanks_Your	%s help is very good for this town's growth.
+1067 _NN_Give_You_Some_Reward	Please take this as our gratitude.
+1068 _NN_Guard_This_Village	Azran's head soldier is sending the settler's army.
+1069 _NN_Monster_Attaking_Us_Help	The south east settler's troops are in trouble. They need help.
+1070 _NN_Thanks_for_Helping_us	thank you for protecting the town.
+1071 _NN_Youve_Done_It_Already	You've already finished this quest.
+1072 _NN_Cant_Drop_Here	There's no more room.
+1073 _NN_Guild_Medal_Cant_Be_Droped	You can't throw this item away.
+1074 _NN_Only_To_Equips	Only equipped weapon and armor is possible.
+1075 _NN_Cant_Refine_More	This item can't be refined any more.
+1076 _NN_Fail_To_Refine	You've failed to refine.
+1077 _NN_Fail_To_Level_Up	You've failed to level up.
+1078 _NN_No_Return_Point	There is no saved location to teleport to.
+1079 _NN_No_Key	You don't have a key.
+1080 _NN_Wrong_Trade_Packet1	There's an error with the trade packet.
+1081 _NN_Only_With_Guild_Master	You can't trade this item.
+1082 _NN_Already_Trading	You’re already trading with another player.
+1083 _NN_Havent_Money_So_Much	You don't have enough money.
+1084 _NN_Opponent_Havent_Money	You don't have enough money as the other side.
+1085 _NN_Each_Of_You_Havent_Space	Both players do not have enough inventory space.
+1086 _NN_You_Have_No_Space_To_Trade	There's no space in inventory. You can not trade.
+1087 _NN_Opponent_Have_No_Space_To	Other player has no inventory space.
+1088 _NN_Wrong_Trade_Packet2	There is something wrong with the trade packet.
+1089 _NN_CMD_SUMMON	Summon
+1090 _NN_Cant_Use_Killed	Can't use while dead.
+1091 _NN_Not_Connected	The other player is not on-line.
+1092 _NN_Cant_Use_To_Yourself	You can't use this on yourself.
+1093 _NN_Cant_Use_To_Killed	You can't use this on a dead player.
+1094 _NN_Only_To_Party_Or_Guild	You can use this on guild members and party members.
+1095 _NN_Didnt_Learn_Summon_Skill	You can use it only when you have summon magic or kingdom medal.
+1096 _NN_Cant_Use_That_Here	You can't use it in this zone.
+1097 _NN_Too_High_Level	You can't summon/transfer because it's high level.
+1098 _SN_Summoned_By_S	You're summoned by [%s].
+1099 _NN_Relocate	transfer
+1100 _SN_S_Relocate_To_You	[%s] is relocating to your location.
+1101 _NN_Reply	reply
+1102 _NN_No_One_To_Reply	There is no one to answer.
+1103 _SN_S_is_Connected	[%s] is connecting now.
+1104 _NN_Only_Guild_Member_Can	You can only guild chat when you belong to a guild.
+1105 _NN_Maximum_Point_Now	You can not raise anymore.
+1106 _NN_Maximum_Point_200_Now	You can not go above level 200.
+1107 _NN_Cant_Learn_Other_Class_Skill	You can not learn another class' skills.
+1108 _NN_Not_Enough_Skill_Point	Not enough skill points.
+1109 _NN_Already_Learned_It	You already know this skill.
+1110 _NN_Need_More_Level_To_Learn	You're level is too low for this skill.
+1111 _NN_Need_More_Mastery_To_Learn	Not enough mastery requirement.
+1112 _NN_Only_Merchant_Sells	You can only buy goods from the merchant.
+1113 _NN_Not_Enough_Money	You don't have enough money.
+1114 _NN_Only_Guild_Master_Can_Buy_It	Only guild master can buy it.
+1115 _NN_He_Is_Not_Merchant	You're not a trader.
+1116 _NN_Only_Merchant_Buy_Yours	You can sell your item only to trader.
+1117 _NN_Dropped_Current_Party_First	You must leave your party to make another party.
+1118 _NN_Not_Connected	The other side is not conneted.
+1119 _NN_Other_Partys_Member	The other side has already joined another party.
+1120 _NN_Have_Own_Party_Already	The other side already has his party.
+1121 _NN_Dropped_Current_Party_First	You cannot join another party because you are already in one.
+1122 _NN_Partys_Full	The other party is full.
+1123 _DN_Billing_Code	Billing server has sent a verification code[%s].
+1124 _DN_Billing_Notice1	You have %s seconds of service.
+1125 _DD_Billing_Notice2	You have %s minutes and %s seconds of service.
+1126 _NN_Billing_Notice3	You used all service time.
+1127 _NN_Billing_Notice4	Transaction was incomplete. Closing connection.
+1128 _NN_Billing_Notice5	Connection closed because another person logged on with the same account.
+1129 _NN_Billing_Notice6	Connection closed by billing server.
+1130 _NN_Try_Reconnect	Try to connect again please.
+1131 _NN_No_Account_With_That_Name	The account does not exist.
+1132 _NN_Blocked_Account	Your account is blocked. Go to the homepage and read under blocked accounts.
+1133 _NN_Wrong_Password	Wrong password.
+1134 _NN_Your_Account_From_Others	Connection closed because another person logged on with the same account.
+1135 _NN_Guild_Battle_Notice1	Players joining a guild battle must wait at their guild town.
+1136 _NN_Guild_Battle_Notice2	Guild battle will start in three munites.
+1137 _NN_Guild_Battle_Notice3	Guild battle has begun.
+1138 _NN_Guild_Battle_Notice4	Guild battle has finished.
+1139 _NN_Guild_Battle_Notice5	Starting to take guild battle challenger's applications.
+1140 _NN_Guild_Battle_Notice6	A challenger has been picked.
+1141 _NN_Below_lv20_No_Exp_Loss	If you are under God2 character, you will not lose experience point.
+1142 _DN_lose_D_exp	You lost %s experience.
+1143 _NN_In_Arena_No_Exp_Loss	You do not lose experience point in arena.
+1144 _NN_Only_Guild_Master_Can	Only guild master can use it.
+1145 _NN_Disqualified_By_Guild_Master	The guild master has disqualified you.
+1146 _NN_Disqualify	You have been removed from the guild.
+1147 _NN_Haven_Guild_Medal	This user doesn't have a guild medal.
+1148 _NN_CMD_Deprivate	cancellation
+1149 _NN_CarryFull	I want to give you a gift but you do not have any room.
+1150 _NN_Equip_Particle	Bring your item to be refined.
+1151 _NN_Purify_Particle	I purified your piece.
+1152 _NN_Need_1000000_Gold	you need one million gold to purify an item.
+1153 _NN_Hurry_Helping_them	Hurry up. Help the settler's army.
+1154 _NN_Party_Only	Organize troops and help the settler's army in south east Azran.
+1155 _NN_Need_Pure_Divine	You need pure divine circle for mastery skill initialization.
+1156 _NN_Initialize_Skill	Skill and mastery are initialized.
+1157 _NN_Need_10_Particle	You can combine Auriharucon/Raktorerium up to 10 pieces.
+1158 _NN_Processing_Complete	Combination is complete.
+1159 _DD_Billing_Notice7	You have %s hour and %s minutes of service.
+1160 _DN_Billing_Notice8	You have %s days of service.
+1161 _NN_Disabled_Account	Checking account. Please log in later.
+1162 _NN_No_Guild_Members	There is no guild member on-line.
+1163 _SN_Zakum_Killed	%s has defeated Jacum Lord.
+1164 _NN_Zakum_Initialize	Jacum castle will be initialized in 10 seconds.
+1165 _NN_Deny_Whisper	You cannot whisper this person.
+1166 _NN_Need_5000000_Gold	You need 5 million gold to refine
+1167 _NN_Cant_Sell_Potion	You can't sell potion.
+1168 _NN_Guild_Tax_0_to_30	In Tax rate set up, you should input between 5 to 25.
+1169 _DD_Set_Guild_Tax	You set %s%% tax rate.
+1170 _NN_CantWhenAutoTrade	You cannot sell during auto trade.
+1171 _NN_ItemSold	An auto trading item has been sold.
+1172 _NN_OnlyVillage	You can trade only in town.
+1173 _NN_Only_Named_Guild	Only guilds with names can do it.
+1174 _NN_Only_Once_Per_Day	You can do it once a day.
+1175 _SSD_S_get_S_D	%s gains %s-%s.
+1176 _NN_Refine_Success	You have succeeded in refining.
+1177 _DN_Need_D_Sapphire	Bring me %s spphires for dowery.
+1178 _NN_My_King_Bless1	May Sepyra's light be with you!
+1179 _NN_My_King_Bless2	Bless you with God of balance.
+1180 _NN_Need_Level	Your level is not high enough. Come back later.
+1181 _NN_King1_Killed	Reset Hekalotia kingdom to Harbalade king's warrior.
+1182 _NN_King2_Killed	Reset Akeronia kingdom to Glentowat king's warrior.
+1183 _DN_get_D_exp	You've gained %s experience points.
+1184 _NN_Kingdom	kingdom
+1185 _NN_King	king
+1186 _NN_Set_Warp	Warp's position is located.
+1187 _DS_S_Challanged	[%s Gold] %s is the selected challenger
+1188 _NN_Need_Master	You need authentication of guild master who has kingdom knight's qualification.
+1189 _DN_Need_D_Sapphire2	You need %s sapphire.
+1190 _NN_Need_Guild_Medal	You have to wear medal of guild member.
+1191 _NN_Reconnect	Server full. Please try later.
+1192 _DN_Need_1000000_For_Challange	You have to bet over _%s gold.
+1193 _NN_Battle_In_Progress	A match is in process.
+1194 _NN_Battle_Started	Battle between %s and %s has begun.
+1195 _SS_S_Killed_By_S	%s(%s) is defeated by %s(%s).
+1196 _SS_S_WinBy_S	%s is the winner, %s is the loser of this match.
+1197 _SS_S_S_Draw	This game with %s and %s ended in a tie.
+1198 _SSD_S_get_S	%s has gained %s.
+1199 _NN_Leaving_kingdom	If you give me 16 sapphires, I'll free you from this kingdom.
+1200 _NN_Next_Chance	Try later.
+1201 _NN_Congratulations	Congratulations
+1202 _NN_Stat_Initialized	Power, intelligence, agility, physical strength is redistributed.
+1203 _DN_Want_Stat_Init	If you bring %s sapphires, I'll redistribute 100.
+1204 _DN_D_Cost	You need _%s gold.
+1205 _NN_Cant_with_armor	You cannot equip armor and weapon now.
+1206 _NN_Child_Pay	You can use junior price system only between 1pm ~7pm.
+1207 _DD_PKPointPlus	Your chaos point is %s(Plus _%s).
+1208 _DD_PKPointMinus	Your chaos point is %s(Minus _%s).
+1209 _DN_CantKillUser	You can't kill more players.(now : %s)
+1210 _SS_War_Declared	%s guild declared war on %s guild.
+1211 _SS_War_Started	%s guild has accepted %s guild challenge.
+1212 _SS_War_Canceled	%s guild requested war be canceled with %s guild.
+1213 _NN_War_Stop	Battle_is_over.
+1214 _NN_Cant_Declare_War	You are already in a war. You must finish present war in order to declare another war.
+1215 _NN_Party_Level_Limit	Only levels with 200 level difference can be in a party.
+1216 _NN_Summon_Guild	guild gathering
+1217 _NN_Only_Village	You can do it only in town.
+1218 _SN_Your_are_at_war	Now you are in battle with %s guild.
+1219 _SN_War_to_S	Now %s have declared a war.
+1220 _SN_War_from_S	You accepted the declaration of war from %s guild.
+1221 _SS_War_declare_canceled	%s guild has canceled their declaration of war to %s guild.
+1222 _SD_Zakum_Quest_by_S_N	Now %s and %s players are progressing quest.
+1223 _NN_Zakum_Quest_empty	There is no one attacking Jacum castle.
+1224 _NN_Only_Level1_Armor	It's possible only with defensive weapons such as plate, shadow, eagle spirit,Brigendin.
+1225 _NN_Only_Level2_Armor	It's possible only with defensive weapon such as golden plate, shell, Bone spirit,field combat.
+1226 _NN_Only_Level3_Armor	It's possible only with defensive weapons such as Dwerfen, Casting, Iron.
+1227 _NN_Only_Level4_Armor	It's possible only with defensive weapons such as Gold ember serd, Misril, Meta ally mental, gold curve web.
+1228 _NN_Only_By_Water_Scroll	You must use water scroll to enter 'Water Ally mental zone'.
+1229 _NN_Party_Leader_Only	Only the leader of the party can use this.
+1230 _NN_NewbieQuest_Already1	God bless you.
+1231 _NN_NewbieQuest_Cheerup1	If you don't have Gramlin Decoy's key, I can't give you anything.
+1232 _NN_NewbieQuest_Complete1	It has started. Take it and go.
+1233 _NN_NewbieQuest_Reward1	You have received healing portion box(20) as a reward.
+1234 _NN_NewbieQuest_Already2	You are a lucky man.
+1235 _NN_NewbieQuest_Cheerup2	If you don't have a key to gate 2, I can't help you.
+1236 _NN_NewbieQuest_Complete2	Your weapon is so dull now. I can take care of it.
+1237 _NN_NewbieQuest_Reward2	As a reward, your weapons option has been changed.
+1238 _NN_NewbieQuest_Already3	Preparations are complete except one thing.
+1239 _NN_NewbieQuest_Cheerup3	Take the key that belongs to Orc Snifer
+1240 _NN_NewbieQuest_Complete3	You've come here. This is going to give you a power.
+1241 _NN_NewbieQuest_Reward3	Weapon and defensive weapon are refined.
+1242 _NN_NewbieQuest_Already4	There is an Orc castle in north of Armia.
+1243 _NN_NewbieQuest_Cheerup4	Bring me the Orc's cape or there is no reward.
+1244 _NN_NewbieQuest_Complete4	You are not a beginner anymore. You will need this.
+1245 _NN_NewbieQuest_Reward4	You got a prize for finishing the quest.
+1246 _NN_BR_Start1	Battle royal is starting for Normal, God
+1247 _NN_BR_Start2	Battle royal is starting for God2
+1248 _NN_BR_Start3	Battle royal is starting with no level limit.
+1249 _NN_BR_Rewarded	The winner's prize is at the inventory
+1250 _NN_BR_Ready1	Battle royal is starting for Normal, God at the coliseum in 2 minutes.
+1251 _NN_BR_Ready2	Battle royal is starting for God2 at the coliseum in 2 minutes.
+1252 _NN_BR_Ready3	Battle royal is starting with no level limit at the coliseum in 2 minutes.
+1253 _NN_INCUBATED	Hatching was successful.
+1254 _NN_Cant_Upgrade_More	You cannot upgrade anymore.
+1255 _NN_Mount_Growth	Finished growing.
+1256 _NN_Mount_Not_Match	It's a different class.
+1257 _NN_Cure_animals	If you bring a sick animal, we'll heal it.
+1258 _DS_S_cure_price_D	If you want to heal %s, you need %s gold.
+1259 _NN_Cured	It's healed
+1260 _NN_Cure_failed	Sorry.
+1261 _NN_Incu_Wait_More	Hatching is not ready.
+1262 _NN_Incu_Proceed	Time to hatch has been decreased.
+1263 _NN_Mount_Level	Your mount is grown up.
+1264 _NN_Mount_died	Your mount is dead from hunger.
+1265 _NN_3rd_village_limit	Only levels under 150 can join the Arion guild battle.
+1266 _NN_Only_Sunday	guild member medal exchange is possible only on Monday.
+1267 _NN_Treasure_Map	A treasure map is done.
+1268 _NN_TicketUsed	A ticket is registered.
+1269 _NN_CombineFailed	Item combining has failed.
+1270 _SS_CombineSucceed	%s has succeeded in %s combination.
+1271 _NN_Wrong_Combination	There's something wrong in combining.
+1272 _NN_Item_Arrived	An item has arrived.
+1273 _NN_Cant_get_more_than_2G	You can't carry more than 2 billion gold.
+1274 _SN_Learn_Sephera	You learnt Sepyra skill[%s].
+1275 _DN_Castle_will_be_open	Noatoon siege war will begin in 5 minutes.
+1276 _DN_Castle_opened	Noatoon siege war has begun.
+1277 _DN_Castle_will_be_closed	_In 5 minutes, the Noatun Castle Siege will be over.
+1278 _DN_Castle_closed	The Castle Siege of Noatun is over.
+1279 _NN_Only_when_castle_war	You can use it only during the Castle Siege of Noatun.
+1280 _SN_S_is_charging_castle	_%s conquered the Altar of Tor.
+1281 _SN_S_charge_castle	_%s collapsed Noatun Castle.
+1282 _NN_Only_same_kingdom	Identical Kingdom only.
+1283 _SN_Ally_to_S	You are now acknowledging Guild %s as your alliance guild.
+1284 _SN_Ally_from_S	You are now being acknowledged as an alliance by Guild %s.
+1285 _NN_Ally_Stop	Stop alliance.
+1286 _SS_Ally_Canceled	Guild %s repealed an alliance to Guild %s.
+1287 _SS_Ally_Declared	Guild %s suggested an alliance with Guild %s.
+1289 _NN_Cant_Declare_Ally	_You are already allied with an alliance. To change it, you have to terminate [alliance].
+1290 _SSNN_GuildWarResult	Guild %s won over Guild%s with the score of %s:%s.
+1291 _NN_Need_5_materials	You must collect 5 materials
+1292 _NN_snowimp_create_success	You have been successful to generate Grewpane.
+1293 _NN_snowimp_need_2MGold	You need 2 million golds to generate Grewpane.
+1294 _DN_receive_D_gold	You have received %s gold.
+1295 _NN_Someone_is_on_quest	Other players are already proceeding this quest.
+1296 _NN_Only_at_tor_alter	You have to use it at the Altar of Tor.
+1297 _NN_Only_quiz_time	It is only available during Quiz Challenge Session.
+1298 _NN_Level_limit	Your level is not high enough. You cannot use this.
+1299 _NN_Message_Sent	Message has been sent out.
+1300 _NN_New_Class_quest	Are you willing to follow the road of principle to find life? Acquire two souls first.
+1301 _NN_New_Class_quest_Lv	Are you willing to follow the road of principle to find life? Increase your level first.
+1302 _NN_Set_Soul	Put two souls for composition.
+1303 _NN_Soul_Merged	Stone of Eternal Life is composited. Please equip this Stone and find your king.
+1304 _NN_Go_to_skill_master	_Find 8 properties of Sephira, and find a skill master of Armia.
+1305 _NN_Sepherot_created	_Sephirot has been generated. Please mount this, and find your King.
+1306 _NN_VS_Server	You cannot proceed in the fileld of battle.
+1307 _NN_NoEmptySlot	Not enough space for docking spirit characters. Please erase the characters existing.
+1308 _NN_NewCharacter	Want to proceed docking spirit process with Stone of Eternal Life and power of Sephirot?
+1309 _NN_Soul_n_8_Sephera	Do you want to composite Sephirote?
+1310 _NN_Congratulations_Trans	You created your docking spirit now. May a glory of Sephira be with you.
+1311 _NN_Need_8_Sephera	You need 8 Sephira property and 30000000 golds.
+1312 _NN_Cant_in_castle_war	Unavailable during the Castle Siege.
+1313 _NN_SameCharAlready	You already have a character with the same name.
+1314 _NN_NeedMoreExp	You need more experience to create your docking spirit.
+1315 _NN_BelongToS	_%s and its party have priority.
+1316 _NN_You_get_the_Apple	You acquired an apple.
+1317 _NN_Already_you_have	You already took the apple.
+1318 _DD_Correct_answer	Correct! You will proceed %s steps. (EXP bonus: %s)
+1319 _DD_Incorrect_answer	Wrong answer! You will be retreated %s steps. (EXP decrease: %s)
+1320 _NN_YouNeedTicket	_You need to purchase a ticket from Arnold, the Smith of Azran.
+1321 _NN_Incorrect_kicked	Wrong answer! You were forced to exit.
+1322 _NN_Quiz_Cleared	_Please take an apple, the reward. You will be recalled in 15 seconds.
+1323 _NN_Only_By_Quiz_Scroll	_You have to use scroll's of Arnold, the Smith of Southern Azran.
+1324 _NN_Only_at_south_of	You can only use this only in the field of Southern Azran.
+1325 _NN_VS_Battle	PK - Two people who suggested and accepted a fight will be summoned to the field.
+1326 _NN_Party_Battle2	Group War - Five members from both parties will be summoned to a field of challenges.
+1327 _NN_Party_Battle2	10 players from both groups have been summoned to the stadium for a group battle.
+1328 _NN_Party_Battle3	All players from both groups have been summoned to the stadium for a group battle.
+1329 _NN_Guild_Battle	All guild members are summoned.
+1330 _NN_You_need_feeding_mount	You have to feed your mount.
+1331 _NN_Cant_trade_pkmode	You cannot trade when you or the other side have your PK modes on.
+1332 _NN_No_Lotto_Result_Yet	There is no winner yet.
+1333 _NN_Lotto_No_0	Try later.
+1334 _NN_Lotto_No_1	You are in first place. There's a prize for you.
+1335 _NN_Lotto_No_2	You are in second place. There's a prize for you.
+1336 _NN_Lotto_No_3	You are in third place. There's a prize for you.
+1337 _DN_Lotto_No_4	You are in fourth place. You won %s experience points.
+1338 _NN_Lotto_No_5	You are in fifth place. You won 10000 experience points.
+1339 _NN_FromMonday	You can purchase WYD lottery tickets from Monday to Friday.
+1340 _NN_Level_Limit2	You cannot use this at your level.
+1341 _DN_LottoResult	lotto result search.
+1342 _NN_HitNumber	winnig number : %2d %2d %2d %2d %2d %2d LuckNumber: %2d
+1343 _NN_SelectedNumber	Selected number%2d %2d %2d %2d %2d %2d
+1344 _SD_NoticeLotto	%s won %s in Wyd lottery.
+1345 _NN_CantEatMore	You can't eat anymore.
+1346 _NN_SameLevelOnly	The levels do not match for a battle.
+1347 _NN_Need_Elixer	To join God's beast composition experiment,you need a "Alicer notice letter".
+1348 _NN_Quiz2_Cleared	You clear "Cube of Chaos". Recall after 15 seconds.
+1349 _NN_Night_Limited	Too many players.
+1350 _NN_Night_Already	Quest is in progress.
+1351 _NN_Water_Cleared	Eat item. Recall after 15 seconds.
+1352 _NN_Chat_Prohibition	Chatting is prohibited.
+1353 _NN_No_Speak	Chatting is prohibited.
+1354 _NN_Chat_Free	You can now chat.
+1355 _DN_Event_Limit	Only players under level _%s can join.
+1356 _NN_Event_Stop	The quest has been canceled.
+1357 _NN_Hell_Clear	Hell gate trader has appeared by the central monument.
+1358 _NN_Not_KillBoss	Remove boss monster first.
+1359 _NN_Not_Teleport	Use other portal.
+1360 _NN_Not_NeedUp	Refine condition is not fixed.
+1361 _NN_Killed_Boss	A lich has been removed.
+1362 _NN_Used_Chao	You can use is only when chaos point is under 50.
+1363 _DN_Show_Chao	Your chaos point is %s
+1364 _NN_Not_StatInit	There is no more ability to initialize.
+1365 _NN_Another_Server	Please use another server.
+1366 _NN_Not_SellItem	You can't sell this item to the merchant.
+1367 _DD_D_Show_Time	You have %s hour, %s minutes and %s seconds of service.
+1368 _DN_Show_Date	You have %s days of service.
+1369 _NN_End_Service	You have 0 service time.
+1370 _NN_Name_Khepra	Kefra
+1371 _NN_CantGetItem	You can't gain anymore.
+1372 _NN_CantAdultUsed	Under age can't use it.
+1373 _DN_Level_Limit	Only over %s level can use it.
+1374 _NN_Only_when_castle_start	You have to occupy for 15 minutes after the siege to claim it.
+1375 _NN_Castle_Can_charge	From now on, you can occupy altar of Tore.
+1376 _NN_Stop_Service	A service is stopped temporarily.
+1377 _DS_Notice_Jackpot	in %s server,%s won a jackpot.
+1378 _SN_End_Khepra	Your have succeeded in Kefra sealing in _%s guild.
+1379 _NN_Cant_MoveItem	This item cannot move.
+1380 _NN_Need_ExpMore	You don't have enough experience points.
+1381 _NN_Need_Trans	Only transfer Body character is possible.
+1382 _NN_Need_BeforeQuest	You must fisrt complete the previous quest.
+1383 _DN_Play_Quest	You've completed %s quest.
+1384 _NN_NoHave_Quest	There's no quest in process.
+1385 _NN_SND_MESSAGE	Message : %s
+1386 _UN_JACKPOT_MESSAGE	Now the jackpot is %u gold.
+1387 _NN_NOT_TRANSITEM	You can't use transfer Body item.
+1388 _NN_ITEM_DESTROY	Item has been destroyed.
+1389 _SN_Item_BelongToS	%s has the right for this first.
+1390 _NN_NotEquip_Saturday	You can't wear guild medal on Sunday.
+1391 _DD_Lotto_No_6	You won %s winning %s experience.
+1392 _NN_Need_Kingdom	Only masters with kingdom knight qualifications can apply.
+1393 _SSDD_HeavenWarResult	The guild match between %s and %s ended in a tie.(%s : %s)
+1394 _NN_NeedOverSapp	When you use 10 bundle of sapphire, you can't keep more than that.
+1395 _NN_Complete_Quest	The quest has been completed.
+1396 _SSDD_HeavenWarResult2	%s guild has defeaped %s guild.(%s:%s)
+1397 _SSDD_HeavenWarResult3	A guild battle between %s and %s ended in a tie. (%s : %s)
+1398 _NN_GAMEROOM_ITEM	It's a PC room only item.
+1399 _NN_PLUS_POINT	Your point is accumulated.
+1400 _DN_PLUS_CPPOINT	C point has been increased by %s.
+1401 _DN_SUB_CPPOINT	C point has been decreased by %s.
+1402 _NN_Only_OneSkillLearn	The 8th skill can only be from 1 class.
+1403 _NN_Befor_LearnSkill	You have to learn all the previous skills to learn 8th skill.
+1404 _NN_Cash_ChargeOk	Your Cash has been replenished.
+1405 _NN_Cash_ChargeErr	There's an error in replenishing Cash. Pm.
+1406 _NN_NOTUSE_TRANS	You can't use Trasfer God character.
+1407 _NN_NOTUSE_YET	It's not in service yet.
+1408 _NN_Maximum_Point_255_Now	You can't raise more than maximum 255.
+1409 _NN_EquipArmor_Refine	Your wearing under +6 defensive weapon is refined to +6.
+1410 _DN_Recovery_Life	Your mount's life is %s recovered.
+1411 _DN_CanUse_Time	This game is for 13+ year olds.
+1412 _NN_Crack_Block	This account is blocked for 3 hours because of illegal use.
+1413 _SN_Use_Item	You used _%s item.
+1414 _I64D_TOWN_TAX	Now tax is %s
+1415 _DD_QUIZ	You've got experience %s and %s won.
+1416 _DD_NOT_QUIZ	Wrong. Study more!!
+1417 _NN_GIVE_TOWN_TAX	You have collected tax.
+1418 _NN_CANT_USE_NIGHTMARE	You can't enter nightmare unti 18~24.
+1419 _NN_CHANGE_PASSWORD	You can connect after changing your password.
+1420 _DN_CHANGE_COUNT	You can use it %s times.
+1421 _SN_CREATEGUILD	%s is created.
+1422 _SN_JOINGUILD	You're joined in %s.
+1423 _DN_TOWNSPEOPLE	You're citizen of this server.
+1424 _DN_BASEWORRESULT	%s server occupy advance camp.
+1425 _DN_BASEWORSTART	An advance camp's offensive and defensive battle has began.
+1426 _DD_SERVERWAR	%s kingdom declared war.
+1427 _DD_JOINTOWNPEP	You're registered in citizen.
+1428 _DN_DOSERVERWAR	in the bettle %s channel
+1429 _NN_GSTRING_ERR	wrong guild name!! you can useing 10 words
+1430 _NN_CANT_USE_ID	you can't use name.
+1431 _NN_OPEN_HELLGATE	Hellgate Zone has begin.
+1432 _DN_TOWNBOUNS	The drop bonus for kingdom is %s percent.
+1433 _DD_KINGDOMWAR_START	Start Kingdom war
+1434 _DD_KINGDOMWAR_END	End Kingdom War
+1435 _NN_Check_User_Info	[%s] Fame : %s
+1436 _NN_LockSetMessage	The item is locked.
+1437 _NN_CanelMessage	Item unlocked.
+1438 _NN_LockCheckMessage	If you or your opponent is locked, you can not exchange.
+1439 _NN_LockPsSetMessage	The item lock password is set to (% s).
+1440 _NN_LockPsChangeMessage	Lock password changed to (% s)
+1441 _DN_ServerWarTo	I declared war on %s server.
+1442 _DN_ServerWarFrom	War declared from %s server.
+1443 _NN_LockPsWrongPassMessage	Item passwords can only be 4 to 6 digits.
+1444 _ND_GenDarkShadow	Ice castle center. Dark Shadow Appears!
+1445 _NN_Refine_Down	The smelting figures have been downgraded.
+1446 _NN_CantCreateGOD2	In this server, you can't create Sub character or class changed character.
+1447 _NN_CantUseIt	It is not available on the server.
+1448 _NN_AlreadyClosing	This mission was first come first served way and it is expired.
+1449 _NN_NotMatchMission	This isn't proper for mission condition.
+1450 _NN_ClearMission	Mission Clear! Item was delivered.
+1451 _NN_NOT_TRANS3ITEM	You can't use class change item.
+1452 _NN_FUll_CARRY	Your inventory is full.
+1453 _NN_APPLY_EVENT	WP point was saving.
+1454 _NN_CANT_APPLY_EVENT	For Saving that needs over 10
+1455 _NN_KINGDOM_BLUE	Hekalotia
+1456 _NN_KINGDOM_RED	Akeronia
+1457 _NN_SWAR_AHEAD	During the war
+1458 _NN_SWAR_TRUCE	During a ceasefire
+1459 _NN_GIVEUP_SERVERWAR	%s Kingdom denied war declaration.
+1460 _ND_SERVERCLAN	%s kingdom Server
+1461 _NN_Charm_Stone	Only A of level 200 higher is available.
+1462 _SS_Combin_12Succ	% success +%s's refine !!
+1463 _SS_Guild_to_drop	%s Guild's %s increase %s drop rate!
+1464 _NN_PARTY_TEL	You will be recalled due to party leader's death.
+1465 _DN_LIMITWARNING	Message for Preventing internet addiction (3 Hours)
+1466 _DN_LIMITTIME	Message for Preventing internet addiction (5 Hours)
+1467 _DN_GUILDMESSAGE	You aren't in this guild.
+1468 _DN_CHARSELECTMESSAGE	Sellect your Character.
+1469 _NN_WAITFORDELCHAR	Please wait. Your character is deleting.
+1470 _NN_WAITFORLOGIN	Please wait. Your account is loging in.
+1471 _NN_PASSWORDERROR	Log in password is incorrect.
+1472 _NN_ISNOTALLOWEDACCOUNT	Your account was blocked.
+1473 _NS_GETEXP	*** EXP + %s ***
+1474 _NN_GETJEWALITEM	You acquired jewel item.
+1475 _SS_PLUSMILEAGEPOINT	Saving point : %s (Extra.%s)
+1476 _NN_FAILURE	Failure
+1477 _SN_WANTEQUIPITEM	You have to wear %s.
+1478 _SN_Item_Arrived	%s item was arrived.
+1479 _DN_Mileage_Point	mileage Point %s
+1480 _DN_BeforLearnSkill	You have to learn all previous skills before learn %s.
+1481 _SN_Learn_Skill	You learned %s
+1482 _NN_Maximum_Point_320_Now	You can't increase over %s as maxium maximum.
+1483 _NN_NOT_SUBJECT_TO_EVENT	It is not an event target.
+1484 _DN_LIMITDURING_3HOUR	Your online connection time was stacked to %s
+1485 _NN_LIMITDURING_OVER	You reach to fatigue play time, your benefit will be reduced. Logoff and do excise.
+1486 _SN_AUCTION_START	Today's auction item - %s - Auction will be begun.
+1487 _NN_AUCTION_END	Today's aution was finished.
+1488 _DS_AUCTION_PERIOD	Auction time has left %s Sec(s). The last bidder is -%s-
+1489 _SSD_AUCTION_SUC	%s got %s action item with %s.
+1490 _SN_AUCTION_BID	Today's aution item was bidded as %s Gold.
+1491 _NN_AUCTION_PLACE	This area isn't a bidding area.
+1492 _NN_NEWBIEEVENTSERVER	you only can do it in recommanded server.
+1493 _NN_LIMIT_FAME	There is a lack of Fame
+1494 _SN_APPEAR_MOB	[%s] will be appeared.
+1495 _SN_JOINRESTRICTED	Only [%s] Kingdom's side can enter here.
+1496 _SD_RAID_BONUS	[%s] Kingdom attacked Anubis. This Kingdom will get double exp effect.
+1497 _DD_KILLSCORE	Kill : %d, Total Kill : %d
+1498 _NN_GOD2CHARONLY_	Only class changed character can do it.
+1499 _NN_MOREKILLPOINT	Not enough Kill count.
+1500 _DD_KINGDOMWAR_BEGIN	%s has left for Kingdom war. Kingdom war will be held in %s Channel in this week.
+1501 _DN_CHANNELWAR_BEGIN	%s has left for Outpost war.
+1502 _NN_CHANNELWAR_ZONE	You can't enter other Channel's outpost field.
+1503 _SN_GUILDZONE_NPC_1_	There is %s guild's guild zone.
+1504 _SN_GUILDZONE_NPC_2_	%s guild will be chose as a challenger
+1505 _SN_CHANNELWAR_DROP_	%s Kingdom win at Outpost war. Item drop rate will be increased as reward.
+1506 _SN_KINGDOMWAR_DROP_	%s Kingdom win at Kingdom war. Item drop rate will be increased as reward.
+1507 _DN_AUCTION_MORE_SECOND_	%d Sec(s) has left for Aution end.
+1508 _NN_DELETE_CHAR_HOLD_	Now, ongoing character delete application./Do you want to cancel it?/waiting time : % D %d H %d M
+1509 _NN_DELETE_CHAR_HOLD_SUCCESS_	Chracter delete is applied.
+1510 _NN_DELETE_CHAR_CANCEL_SUCCESS_	Character delete application was canceled.
+1511 _NN_No_Equip	This item is not suitable.
+1512 _DN_No_Refine11_Equip	This isn't a +11 refine item.
+1513 _DN_NO_TOWNSPEOPLE	You aren't joined citizenship.
+1514 _DN_ANOTHER_TOWNSPEOPLE	Already other Channel's cityzen.
+1515 _DN_WAR_JOIN_TOWNSPEOPLE	You can't join to citizenship during war.
+1516 _DN_TOWN_SOUL_BUFF	Load of citizen's bless will be applied.
+1517 _DN_TOWN_SOUL_NOBUFF	Bring the Lactorelium scrap and you will be blessed.
+1518 _DN_SERVER_CHECK	Checking Server.
+1519 _NN_Server_accountclose	Notice : Server checking will be begun soon.
+1520 _NN_Server_accountopen	Notice : Server checking was done.
+1521 _SN_Castle_Zone_View	Now Noatun castle's owner is %s guild.
+1522 _SN_NOT_GUILD_DAY_	There is not a application period of Guild War.
+1523 _SN_NOT_CHALLENGE_NOATOON_	In Noatun kingdom can't be applied.
+1524 _SN_SAME_CHANPION_CLAN_	Champion Guild and Kingdom are same.
+1525 _SN_NOT_MY_GUILD_NAME_	There is no our guild in list.
+1526 _NN_Dormant_Account	Please wake up your account at homepage.
+1527  _NN_REGISTRATION_IP_	After register IP and type command.
+1528 _NN_FULL_ADMIN_IP_	The available 10 IPs were full.
+1529 _NN_ADD_IP_SUCCESS_	IP register Complete.
+1530 _NN_DEL_IP_SUCCESS_	IP delete Complete.
+1531 _NN_REF_IP_SUCCESS_	IP renewal complete.
+1532 _NN_ADD_IP_SAME_	This IP is already registered.
+1533 _NN_NOT_MULTI_CHALLANGE_	Challenge is already in place.
+1534 _SS_Check_User_Info_Guild	%s Guild : %s, Guild Fame : %s, Fame : %s
+1535 _SS_Check_User_Info_Guild_S	%s Guild : %s-%s, Guild Fame : %s, Fame : %s
+1536 _NN_SEALOFSOUL_ERR1	You can`t use Normal character
+1537 _NN_SEALOFSOUL_ERR2	You can`t use Hardcore character
+1538 _NN_SEALOFSOUL_ERR3	You must clear all the inventory.
+1539 _NN_SEALOFSOUL_ERR4	There should be no items worn.
+1540 _NN_SEALOFSOUL_ERR5	If your account has hardcore characters, you can not use them.
+1541 _NN_RELO_NEED_ITEM	Warp scrolling is required.
+1542 _DN_NEED_FAME_	You need %s fame point
+1543 _DN_CANT_USE_THISLEVEL	You can only use below level %s
+1544 _DD_CANT_SANC_ITEMLOCK	Items can not be reinforce in the locked state
+1545 _NN_NEED_COUPON	Coupon is required
+1546 _NN_WIN_COUPON	Victory! Acquisition of victory coupon
+1547 _NN_LOSE_COUPON	Defeat! Coupon will be deducted
+1548 _SN_YOU_NEED_ITEM	You need %s
+1549 _SS_CANT_JOINGUILD_TIME	You can join the guild after %s year %s months %s days.
+1550 _SN_NEED_MONEY	I do not have enough money. I need %s money
+1551 _NN_NEED_SUB_CLASS	You can only proceed with the sub-character holding state.
+1552 _SN_NEED_GUILDFAME	Requires a guild fame of %s.
+1553 _NN_ONLY_NORMAL_OR_GOD	Only Normal or God characters can be used.
+1554 _NN_ONLY_GOD2	Only God2 characters can be used.
+1555 _NN_HUNT_MAKE_ITEM_NEED_SKILL	Point master skills can be produced when learning.
+1556 _NN_ONLY_WEAR_COSTUME	Can be used only in the state wearing a costume.
+1557 _NN_CANT_PROCESS_GOD1	You can not proceed with your helmet.
+1558 _NN_CANT_PROCESS_GOD2	There are no 400 level Normal characters in this account.
+1559 _NN_SET_BONUSS	Set Bonus
+1560 _DN_CANT_USE_THISLEVEL2	You can only use above %s level.
+1561 _NN_MAC_LOGIN	You already have %s accounts on the game server.
+1562 _SS_ITEM_REF_NOTICE	%s wsa successful in the reinforce of item %s +%s
+1563 _SS_ITEM_COM_NOTICE	%s wsa successful in the composition of item %s +%s
+1564 _NN_ROYAL_REGIST_SUCC	Registration is complete.
+1565 _NN_ROYAL_REGIST_FAIL	Registration failed.
+1566 _NN_ROYAL_START	After a while, the Royal Arena will start.
+1567 _SN_ROYAL_RESULT_WIN	Team %s wins!
+1568 _NN_ROYAL_RESULT_DRAW	Draw!
+1569 _NN_ROYAL_KILL	Team%s %s killed Team%s %s .
+1570 _NN_ROYAL_REGIST_START	Royal Arena registration has started.
+1571 _NN_ROYAL_NOTICE1	Annihilate all enemy teams.
+1576 _DD_ROYALARENA_INFO	RoyalArena                      
+1577 _NN_ARENA_ENTRENCE	Would you like to enter the battlefield?
+1578 _NN_ARENA_ADMISSIONFEE	Admission is %d Gold.
+1579 _NN_ARENA_STATE1	No entry
+1580 _NN_ARENA_STATE2	Proceeding
+1581 _NN_ARENA_REGIST_ALREADY	Already registered.
+1582 _NN_CANNOT_USE_TIME	Now is not the time available.
+1583 _SN_HELLGATE_USE_TIME_IS	The Hellgate is open at %s:00.
+1584 _SS_QUESTNOTICE_ITEM	%s obtained the item %s at the %s!!
+1585 _SS_12TEM_RATE	This probability  (%s / %s) 
+1586 _SS_BASEWAR_TOWERKILL	%s guild %s occupy advance camp.
+1587 _NN_SANDLICH_INVASION	Noatun's invasion has started!
+1588 _NN_SANDLICH_APPEARED	The Sand Lich appeared on the altar of Thor!
+1589 _SS_SANDLISH_KILL	%s (%s) defeated Sand Lich!
+1590 _SS_MOUNT_LEVEL	%s evolved mount %s to level %s!
+1591 _SS_ITEM_GOD2_SUCC	%s succeeded in composing item %s
+1592 _SS_CASTLEWARSCORE	Noatun War Score: %s(%s) / %s(%s) / %s(%s) / %s(%s)
+1593 _NN_CREATE_ANUBIS	Anubis appeared.
+1594 _NN_REFINE_DESTROY	In case of failure, the item may be destroyed. Do you really want to proceed?
+1595 _NN_NOT_ABLE	Not available now.
+1596 _NN_WELCOME	!Hello, 
+1597 _NN_MISSION_FAIL	Mission fail
+1598 _NN_GUILD_MEM_NOTICE	Please enter your msg
+1599 _NN_GUILD_DEL	Are you sure you want to dissolve the Guild?
+1600 _NN_GUILD_SELF_DEL	Are you sure you want to leave the Guild?
+1601 _NN_GUILD_MEM_UPDATE	Do you really want to hand over the Guild?
+1602 _NN_CANNOT_DO	Can not do it now.
+1603 _NN_ALREADY_USE_NAME	Already in use.
+1604 _NN_CREATE_GUILD	%s is available.<n>Add [%s]Guild?
+1605 _NN_GUILD_MEM_DEL	Add expulsion from [%s] guild?
+1606 _NN_GUILD_URL	http://192.168.0.191:8082/
+1607 _NN_GUILD_CON_KINGDOM	왕국이 다른경우 가입이 불가능합니다.
+1608 _NN_GUILD_CON_LEVEL	길드가입 레벨이 아닙니다. 
+1609 _NN_GUILD_CON_C_LEVEL	기존 치프 해제후 임명 가능합니다.

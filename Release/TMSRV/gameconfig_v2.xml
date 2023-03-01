@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<configs>
+	<general rvrHour="21" towerHour="22" noatunHour="21" cityHour="20" maxWater="1080">
+		<cliver>759</cliver>
+	</general>
+	<kefra firstKefra="1" kefraKiller="1" kefraDead="1" />
+	<kingdomBattle winner="7" />
+	<towerWar guild="0" />
+	<lanhouseN totalToKill="300" />
+	<lanhouseM totalToKill="300" />
+	<nightmare maximumPesaLevel="160" />
+</configs>

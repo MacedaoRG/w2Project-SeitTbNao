@@ -1,0 +1,2 @@
+#id, fame, kingdom, citizen, name, sub1, sub2, sub3
+0, 1, 1, 1, 1, 1, 1, 1
